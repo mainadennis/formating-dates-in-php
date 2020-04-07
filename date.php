@@ -1,6 +1,6 @@
 <!-- /*! 
  * php date template 1.0
- * http://devhacks.com
+ * http://dentricedev.com
  *
  * Released under the MIT license.
  Author : Dennis Maina
